@@ -1,0 +1,9 @@
+.gadgetTxt, .acceTxt{
+    text-align: center;
+    padding: 3% 0 0 0;
+    font-family: 'Lobster', cursive;
+}
+
+#stock{
+    padding-bottom: 3%;
+}
